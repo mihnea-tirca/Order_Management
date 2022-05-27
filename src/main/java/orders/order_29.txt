@@ -1,0 +1,6 @@
+Order ID: 29
+Client ID: 1007; Client Name: nume2
+Product ID: 14; Product Name: produs2; Price: 20.0
+Quantity: 1
+
+Total Price: 20.0

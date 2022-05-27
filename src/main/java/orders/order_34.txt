@@ -1,0 +1,6 @@
+Order ID: 34
+Client ID: 1011; Client Name: Mihai
+Product ID: 17; Product Name: carne; Price: 20.0
+Quantity: 5
+
+Total Price: 100.0
